@@ -34,15 +34,3 @@
 ```bash
 npm install
 npm run dev
----
-
-## 📦 ساختار پروژه
-WorldWise/
-│── public/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── data/
-│   └── App.jsx
-│── package.json
-│── README.md
